@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "757927293328",
+    "firebase_url": "https://delossantoskarllouiselab-6cf0b.firebaseio.com",
+    "project_id": "delossantoskarllouiselab-6cf0b",
+    "storage_bucket": "delossantoskarllouiselab-6cf0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757927293328:android:bbdf67d64b7ed843",
+        "android_client_info": {
+          "package_name": "com.delossantos.karllouise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757927293328-1jqmecq0gehno01o2a6k7nf69suu9qum.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.delossantos.karllouise",
+            "certificate_hash": "98734d00e4a8573313f84ef2d2b3fe538ff89d21"
+          }
+        },
+        {
+          "client_id": "757927293328-a242huroa450hsov0jaj2j6hlbif4jgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1AMsKOnA5eDX_4rUL06UjGEClFujVyQA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757927293328-a242huroa450hsov0jaj2j6hlbif4jgm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
